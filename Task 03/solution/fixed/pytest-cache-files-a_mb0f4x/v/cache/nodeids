@@ -1,0 +1,20 @@
+[
+  "test_connector.py::TestLinkHeader::test_parse_next_absent",
+  "test_connector.py::TestLinkHeader::test_parse_next_present",
+  "test_connector.py::TestLinkHeader::test_parse_none_header",
+  "test_connector.py::TestNormalization::test_data_fields",
+  "test_connector.py::TestNormalization::test_external_id_is_string",
+  "test_connector.py::TestNormalization::test_missing_body_is_none",
+  "test_connector.py::TestNormalization::test_missing_comments_defaults_zero",
+  "test_connector.py::TestNormalization::test_shape",
+  "test_connector.py::TestNormalization::test_user_none_yields_none_author",
+  "test_connector.py::TestPRFilter::test_pull_requests_are_filtered",
+  "test_connector.py::TestPagination::test_follows_link_header",
+  "test_connector.py::TestPagination::test_single_page_no_next",
+  "test_connector.py::TestPagination::test_three_pages",
+  "test_connector.py::TestRetries::test_exhausts_retries_raises",
+  "test_connector.py::TestRetries::test_permission_403_is_raised_not_retried",
+  "test_connector.py::TestRetries::test_rate_limit_403_with_remaining_zero",
+  "test_connector.py::TestRetries::test_rate_limit_429_retry_after",
+  "test_connector.py::TestRetries::test_retries_on_5xx_then_succeeds"
+]
