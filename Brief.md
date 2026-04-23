@@ -13,18 +13,18 @@
 
 **Source: ✅ Verified — samen.ai website**
 
-Samen AI (samen.ai) is a Dutch AI consultancy and product company based in the Netherlands. They describe themselves as "human-centred AI" — not a traditional consultancy but a flexible team-assembly model where they bring together their own people and network specialists around a client's problem.
+**Samen AI (samen.ai)** is a **Dutch AI consultancy and product company** based in the Netherlands. They describe themselves as "human-centred AI" — not a traditional consultancy but a **flexible team-assembly model** where they **bring together their own people and network specialists around a client's problem**.
 
-| Field          | Detail                                                   |
-| -------------- | -------------------------------------------------------- |
-| Company Name   | SAMEN.ai                                                 |
-| Location       | Netherlands                                              |
-| Type           | AI Consultancy + Product Company                         |
-| Website        | samen.ai                                                 |
-| Delivery Model | Sprint-based — intake to live in 2–6 weeks               |
-| Team Model     | Flexible — own people + network specialists              |
-| Compliance     | EU GDPR & AI Act compliant by design                     |
-| Our Engagement | Staff augmentation — Cyntexa team working under Samen AI |
+| **Field**          | **Detail**                                               |
+| ------------------ | -------------------------------------------------------- |
+| **Company Name**   | SAMEN.ai                                                 |
+| **Location**       | Netherlands                                              |
+| **Type**           | AI Consultancy + Product Company                         |
+| **Website**        | samen.ai                                                 |
+| **Delivery Model** | Sprint-based — intake to live in 2–6 weeks               |
+| **Team Model**     | Flexible — own people + network specialists              |
+| **Compliance**     | EU GDPR & AI Act compliant by design                     |
+| **Our Engagement** | Staff augmentation — Cyntexa team working under Samen AI |
 
 ---
 
@@ -34,33 +34,33 @@ Samen AI (samen.ai) is a Dutch AI consultancy and product company based in the N
 
 ### 2.1 Core Practice Areas
 
-| Practice Area       | What It Covers                                               | Technologies                                  |
-| ------------------- | ------------------------------------------------------------ | --------------------------------------------- |
-| LLM & Agents        | Copilots, RAG pipelines, secure enterprise knowledge flows   | OpenAI, Claude, Mistral, Gemini, Groq, Cohere |
-| Computer Vision     | MediaPipe pipelines + AI copilots for QA, safety, proctoring | MediaPipe, Ultralytics YOLO, OpenVINO         |
-| Pattern Recognition | Fraud detection, churn prediction, anomaly detection         | Scikit-learn, PyTorch, TensorFlow             |
+| Practice Area           | What It Covers                                               | Technologies                                  |
+| ----------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| **LLM & Agents**        | Copilots, RAG pipelines, secure enterprise knowledge flows   | OpenAI, Claude, Mistral, Gemini, Groq, Cohere |
+| **Computer Vision**     | MediaPipe pipelines + AI copilots for QA, safety, proctoring | MediaPipe, Ultralytics YOLO, OpenVINO         |
+| **Pattern Recognition** | Fraud detection, churn prediction, anomaly detection         | Scikit-learn, PyTorch, TensorFlow             |
 
 ### 2.2 Department-Level Solutions
 
-| Department | What They Build                                                  |
-| ---------- | ---------------------------------------------------------------- |
-| HR         | Time-to-hire reduction, mobility matching, policy Q&A bots       |
-| Marketing  | SEO automation, content factory, brand consistency AI            |
-| Sales      | Lead scoring, call summarization, AI-generated proposals         |
-| Operations | Demand forecasting, route optimization, document flow automation |
-| Finance    | AP automation, anomaly detection, financial forecasting          |
-| IT         | Ticket triage, RAG knowledge bases, AI governance tools          |
+| Department     | What They Build                                                  |
+| -------------- | ---------------------------------------------------------------- |
+| **HR**         | Time-to-hire reduction, mobility matching, policy Q&A bots       |
+| **Marketing**  | SEO automation, content factory, brand consistency AI            |
+| **Sales**      | Lead scoring, call summarization, AI-generated proposals         |
+| **Operations** | Demand forecasting, route optimization, document flow automation |
+| **Finance**    | AP automation, anomaly detection, financial forecasting          |
+| **IT**         | Ticket triage, RAG knowledge bases, AI governance tools          |
 
 ### 2.3 Full Technology Stack
 
-| Category          | Technologies                                                               |
-| ----------------- | -------------------------------------------------------------------------- |
-| LLM / AI APIs     | OpenAI, Anthropic Claude, Mistral AI, Meta AI, Google Gemini, Groq, Cohere |
-| Computer Vision   | Google MediaPipe, Ultralytics YOLO, OpenVINO                               |
-| ML / Data Science | Scikit-learn, PyTorch, TensorFlow, NumPy, Pandas                           |
-| Cloud             | Microsoft Azure, AWS, Google Cloud Platform                                |
-| Backend           | Python (FastAPI / Flask / Django)                                          |
-| Compliance        | EU GDPR, EU AI Act, Dutch data regulations                                 |
+| Category              | Technologies                                                               |
+| --------------------- | -------------------------------------------------------------------------- |
+| **LLM / AI APIs**     | OpenAI, Anthropic Claude, Mistral AI, Meta AI, Google Gemini, Groq, Cohere |
+| **Computer Vision**   | Google MediaPipe, Ultralytics YOLO, OpenVINO                               |
+| **ML / Data Science** | Scikit-learn, PyTorch, TensorFlow, NumPy, Pandas                           |
+| **Cloud**             | Microsoft Azure, AWS, Google Cloud Platform                                |
+| **Backend**           | Python (FastAPI / Flask / Django)                                          |
+| **Compliance**        | EU GDPR, EU AI Act, Dutch data regulations                                 |
 
 ---
 
@@ -105,18 +105,18 @@ _This is our best analysis, not a stated job description_
 
 ### 4.2 Medium Probability (40–60%)
 
-- Local LLM inference — Ollama, llama.cpp (explains "good laptop for compute AI" requirement)
-- Computer Vision — MediaPipe or YOLO for proctoring, QA, safety monitoring
-- Docker & containerization — packaging connectors and services
-- Observability — logging, metrics, alerts for connector health
-- Full-stack development — React/Node.js dashboards for Intelligence OS
+- **Local LLM inference** — Ollama, llama.cpp (explains "good laptop for compute AI" requirement)
+- **Computer Vision** — MediaPipe or YOLO for proctoring, QA, safety monitoring
+- **Docker & containerization** — packaging connectors and services
+- **Observability** — logging, metrics, alerts for connector health
+- **Full-stack development** — React/Node.js dashboards for Intelligence OS
 
 ### 4.3 Lower Probability (20%)
 
-- Training ML models from scratch — more likely fine-tuning pre-trained models
-- Heavy ML research / mathematics — more applied than theoretical
-- C/systems programming — used as a screening signal in assessment, unlikely daily
-- Reinforcement Learning in production — conceptual understanding useful, not daily work
+- **Training ML models from scratch** — more likely fine-tuning pre-trained models
+- **Heavy ML research / mathematics** — more applied than theoretical
+- **C/systems programming** — used as a screening signal in assessment, unlikely daily
+- **Reinforcement Learning in production** — conceptual understanding useful, not daily work
 
 ---
 
@@ -124,13 +124,13 @@ _This is our best analysis, not a stated job description_
 
 **Source: ⚠️ Inferred — from interview recap shared by Kartik**
 
-| Project                | Description                                                        | Technologies Implied                                           |
-| ---------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
-| AI Proctoring System   | Educational institute — monitors exam sessions, detects violations | MediaPipe, face detection, speaker diarization, audio analysis |
-| Automated Driving Test | AI evaluates driving behavior, pass/fail determination             | Computer vision, behavioral pattern recognition                |
-| Intelligence OS        | Internal product — enterprise data connectors + AI insights        | Python, ETL, LLM, RAG, FastAPI                                 |
-| HR Automation          | Time-to-hire, candidate matching, policy Q&A                       | LLM, RAG, vector search                                        |
-| Finance Automation     | AP automation, anomaly detection, forecasting                      | ML models, time-series forecasting                             |
+| Project                    | Description                                                        | Technologies Implied                                           |
+| -------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
+| **AI Proctoring System**   | Educational institute — monitors exam sessions, detects violations | MediaPipe, face detection, speaker diarization, audio analysis |
+| **Automated Driving Test** | AI evaluates driving behavior, pass/fail determination             | Computer vision, behavioral pattern recognition                |
+| **Intelligence OS**        | Internal product — enterprise data connectors + AI insights        | Python, ETL, LLM, RAG, FastAPI                                 |
+| **HR Automation**          | Time-to-hire, candidate matching, policy Q&A                       | LLM, RAG, vector search                                        |
+| **Finance Automation**     | AP automation, anomaly detection, forecasting                      | ML models, time-series forecasting                             |
 
 > 💡 **Note:** Kartik mentioned the MediaPipe-based proctoring solution (face detection + speaker diarization) in the interview and Samen AI responded positively. This project story should be used in fresher interviews too.
 
