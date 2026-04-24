@@ -9,7 +9,7 @@
 
 ---
 
-## 🔴 PRIORITY 1 — Python Fundamentals (Your Biggest Gap)
+## Python Fundamentals (Your Biggest Gap)
 
 _You are a JS/TS developer. Python syntax jump is fast — do this first._
 
@@ -26,7 +26,7 @@ _You are a JS/TS developer. Python syntax jump is fast — do this first._
 
 ---
 
-## 🔴 PRIORITY 2 — Data Science Foundations
+## Data Science Foundations
 
 _JD says "strong data science expertise" — this is the base of everything_
 
@@ -50,7 +50,7 @@ _JD says "strong data science expertise" — this is the base of everything_
 
 ---
 
-## 🔴 PRIORITY 3 — Machine Learning (Core JD Requirement)
+## Machine Learning (Core JD Requirement)
 
 _JD: "design, build, and train AI/ML models from scratch"_
 
@@ -89,7 +89,7 @@ _JD: "design, build, and train AI/ML models from scratch"_
 
 ---
 
-## 🔴 PRIORITY 4 — Reinforcement Learning
+## Reinforcement Learning
 
 _JD explicitly mentions RL — and Task 4 tested it. Fix the Q-learning bug._
 
@@ -107,7 +107,7 @@ _JD explicitly mentions RL — and Task 4 tested it. Fix the Q-learning bug._
 
 ---
 
-## 🟠 PRIORITY 5 — Deep Learning
+## Deep Learning
 
 _JD mentions "advanced ML techniques" — deep learning is implied_
 
@@ -137,7 +137,7 @@ _JD mentions "advanced ML techniques" — deep learning is implied_
 
 ---
 
-## 🟠 PRIORITY 6 — AI Architecture & System Design
+## AI Architecture & System Design
 
 _JD: "solid understanding of AI architecture" — Task 2 tested this_
 
@@ -154,7 +154,7 @@ _JD: "solid understanding of AI architecture" — Task 2 tested this_
 
 ---
 
-## 🟠 PRIORITY 7 — Production Python & API Connectors
+## Production Python & API Connectors
 
 _This is what Task 3 tested — and likely core daily work_
 
@@ -171,7 +171,7 @@ _This is what Task 3 tested — and likely core daily work_
 
 ---
 
-## 🟠 PRIORITY 8 — NLP & LLM (Applied)
+## NLP & LLM (Applied)
 
 _JD says "no API wrappers" — but Samen AI uses Claude/OpenAI. Know both._
 
@@ -195,7 +195,7 @@ _JD says "no API wrappers" — but Samen AI uses Claude/OpenAI. Know both._
 
 ---
 
-## 🟡 PRIORITY 9 — MLOps & Deployment
+## MLOps & Deployment
 
 _JD: "production-ready AI solutions" — know the basics_
 
@@ -209,7 +209,7 @@ _JD: "production-ready AI solutions" — know the basics_
 
 ---
 
-## 🟡 PRIORITY 10 — Computer Vision
+## Computer Vision
 
 _Samen AI has a Computer Vision practice — you mentioned MediaPipe in interview_
 
