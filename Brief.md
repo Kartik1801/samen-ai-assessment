@@ -204,9 +204,7 @@ Feedback specifically noted: _"decent architectural intuition"_ and the architec
 | Hardware      | Good laptop/desktop for local AI compute (Ollama, local LLMs)     |
 | Audio         | Clear microphone and earphones — client flagged audio quality     |
 | Legal         | NDA + IP ownership — all code is Samen AI's intellectual property |
-| Contract      | To be handled by Cyntexa (VJ/Neha)                                |
-
-> ⚠️ **Action Required:** Kartik must have clear mic + earphones before May 4. Client specifically mentioned audio difficulty. Budget ~₹1500–3000 (Boult, Noise, Sony).
+| Contract      | To be handled by Cyntexa                                          |
 
 ---
 
